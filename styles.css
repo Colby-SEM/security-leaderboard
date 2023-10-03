@@ -1,0 +1,27 @@
+.header-image{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color:#40B1FA;
+    font-family: 'Dela Gothic One', cursive;
+    text-align: center;
+}
+
+table {
+    font-family: 'Titillium Web', sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  td, th {
+    border: 1px solid #87cbf5;
+    text-align: left;
+    padding: 8px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: #b7daf0;
+  }
